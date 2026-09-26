@@ -1,0 +1,10 @@
+python-bale-bot
+fastapi==0.111.0
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+alembic==1.13.1
+python-dotenv==1.0.1
+pydantic==2.7.1
+pydantic-settings==2.2.1
+apscheduler==3.10.4
+jdatetime==4.1.1
